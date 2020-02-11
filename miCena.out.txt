@@ -1,0 +1,10 @@
+Comensal:1
+ Plato:Milanesa con Fritas Precio: $100
+ Plato:Milanesa con Fritas Precio: $100
+ Plato:Ravioles con fileto Precio: $150
+Comensal:7
+ Plato:Milanesa con Fritas Precio: $100
+ Plato:Bife a Caballo Precio: $120
+ Plato:Ravioles con fileto Precio: $150
+Valor Cubierto por 10: $1000
+Importe total de la cuenta: $1720
